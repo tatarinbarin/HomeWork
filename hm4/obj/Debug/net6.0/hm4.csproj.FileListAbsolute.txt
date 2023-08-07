@@ -1,0 +1,15 @@
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\bin\Debug\net6.0\hm4.exe
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\bin\Debug\net6.0\hm4.deps.json
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\bin\Debug\net6.0\hm4.runtimeconfig.json
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\bin\Debug\net6.0\hm4.dll
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\bin\Debug\net6.0\hm4.pdb
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\hm4.csproj.AssemblyReference.cache
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\hm4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\hm4.AssemblyInfoInputs.cache
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\hm4.AssemblyInfo.cs
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\hm4.csproj.CoreCompileInputs.cache
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\hm4.dll
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\refint\hm4.dll
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\hm4.pdb
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\hm4.genruntimeconfig.cache
+C:\Users\Rassamaha\Desktop\NEWJOB\hm4\obj\Debug\net6.0\ref\hm4.dll
