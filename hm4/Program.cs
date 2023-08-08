@@ -25,12 +25,12 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 int even = 2;
 
-if(num > 1)
+while(num > 1)
 {
-    while(even <= num)
+    if(even <= num)
     {
-        Console.WriteLine(even + " ");
-        even++;
+        Console.WriteLine(even);
+        even = even + 2;
     }
 }
 
